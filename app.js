@@ -1,28 +1,33 @@
-let question = [{
-    quiz: 'What is your name?',
-    aOption: 'Pritam Kumar',
-    bOption: 'Shubham Kumar',
-    cOption: 'Rahul Kumar',
-    dOption: 'Raju Kumar',
-}, {
-    quiz: 'where are you from',
-    aOption: 'Hazaribagh',
-    bOption: 'Ranchi',
-    cOption: 'Bokaro',
-    dOption: 'Dhanbaad',
-},{
-    quiz: 'what is your hobby',
-    aOption: 'Playing',
-    bOption: 'Coding',
-    cOption: 'reading',
-    dOption: 'Swimming',
-}, {
-    quiz: 'favourite place',
-    aOption: 'Home',
-    bOption: 'office',
-    cOption: 'Garden',
-    dOption: 'School',
-}];
+let question = [
+  {
+    quiz: "What is your name?",
+    aOption: "Pritam Kumar",
+    bOption: "Shubham Kumar",
+    cOption: "Rahul Kumar",
+    dOption: "Raju Kumar",
+  },
+  {
+    quiz: "where are you from",
+    aOption: "Hazaribagh",
+    bOption: "Ranchi",
+    cOption: "Bokaro",
+    dOption: "Dhanbaad",
+  },
+  {
+    quiz: "what is your hobby",
+    aOption: "Sleeping",
+    bOption: "Coding",
+    cOption: "reading",
+    dOption: "Swimming",
+  },
+  {
+    quiz: "favourite place",
+    aOption: "Home",
+    bOption: "office",
+    cOption: "Garden",
+    dOption: "School",
+  },
+];
 
 //selecting item
 
